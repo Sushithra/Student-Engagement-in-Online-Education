@@ -86,11 +86,11 @@ This project is for academic and educational purposes. Attribution appreciated.
 
 Output
 
-![SPSS Modeler Stream](./images/C5,0.jpg)
+![SPSS Modeler Stream](./images/C5,0.png)
 
-![SPSS Modeler Stream](./images/RandomTree.jpg)
+![SPSS Modeler Stream](./images/Random Trees.png)
 
-![SPSS Modeler Stream](./images/NeuralNet.jpg)
+![SPSS Modeler Stream](./images/Neural Net.png)
 
 
 
