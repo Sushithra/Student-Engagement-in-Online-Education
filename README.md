@@ -29,6 +29,10 @@ The dataset includes 7 features:
 
 ---
 
+The stream:
+![SPSS Modeler Stream](./Stream.jpg)
+
+
 ## 🛠️ Project Structure
 
 1. **Source Node** – Loads CSV dataset into SPSS Modeler  
