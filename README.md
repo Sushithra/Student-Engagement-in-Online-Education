@@ -88,7 +88,7 @@ Output
 
 ![Engagement Prediction Tree](./C5.0.png)
 
-![Assignment Submission Prediction](./RandomTrees.png)
+![Assignment Submission Prediction](./RandromTrees.png)
 
 ![Quiz Review Neural Net](./NeuralNet.png)
 
