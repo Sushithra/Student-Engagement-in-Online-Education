@@ -30,8 +30,10 @@ The dataset includes 7 features:
 ---
 
 The stream:
+
 ![SPSS Modeler Stream](./Stream.jpg)
 
+---
 
 ## 🛠️ Project Structure
 
