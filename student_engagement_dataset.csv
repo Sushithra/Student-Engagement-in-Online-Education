@@ -1,0 +1,51 @@
+Student_ID,Logins,Content_Reads,Forum_Posts,Quiz_Reviews,Assignment_Submission_Time,Engagement_Level
+1001,42,70,5,0,On Time,Low
+1002,28,19,4,1,On Time,Medium
+1003,33,97,5,4,Very Late,Low
+1004,32,41,1,5,Very Late,High
+1005,40,49,0,5,On Time,High
+1006,35,82,10,3,On Time,Medium
+1007,6,80,1,2,On Time,Medium
+1008,31,88,2,3,Late,Low
+1009,21,83,8,1,Late,High
+1010,30,38,9,0,Late,Medium
+1011,9,91,0,3,On Time,High
+1012,41,79,1,2,Very Late,Low
+1013,11,14,7,5,On Time,Medium
+1014,7,49,5,4,Late,Low
+1015,28,71,7,2,Very Late,Low
+1016,35,24,9,2,Very Late,Low
+1017,17,17,1,0,Late,High
+1018,16,49,5,2,Very Late,High
+1019,35,37,6,2,On Time,Low
+1020,25,21,3,5,Very Late,High
+1021,49,47,0,4,Very Late,High
+1022,12,99,0,4,Very Late,High
+1023,19,68,2,5,On Time,Low
+1024,8,51,5,1,Late,Low
+1025,47,89,5,0,Late,Low
+1026,37,52,6,2,Very Late,High
+1027,12,24,9,2,Late,Medium
+1028,39,22,0,2,On Time,Medium
+1029,7,28,6,0,Very Late,Medium
+1030,12,37,0,0,Late,Low
+1031,32,87,7,3,Very Late,Medium
+1032,17,21,4,5,Late,Medium
+1033,27,63,8,5,Very Late,High
+1034,32,75,3,2,Very Late,High
+1035,15,80,6,2,Very Late,Medium
+1036,17,17,4,5,Very Late,Medium
+1037,40,31,3,4,On Time,Medium
+1038,17,19,6,0,Late,Medium
+1039,36,51,8,4,Very Late,Medium
+1040,23,97,10,5,On Time,Medium
+1041,23,62,8,4,On Time,Medium
+1042,44,97,7,1,Late,Low
+1043,49,17,5,3,Very Late,High
+1044,9,77,4,5,On Time,Medium
+1045,29,74,10,1,Very Late,Low
+1046,12,89,6,1,Very Late,High
+1047,35,87,7,0,On Time,Low
+1048,7,88,8,2,Late,Medium
+1049,17,79,4,1,On Time,Medium
+1050,48,98,2,2,Late,High
