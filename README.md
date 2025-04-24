@@ -72,16 +72,7 @@ Each model uses the partitioned dataset and includes performance evaluations.
 4. Run the stream and visualize output metrics  
 5. Analyze charts and model performance  
 
----
-
-## 📬 Contact
-
-👤 Author: *Kitten*  
-📧 Reach out for collaboration, feedback, or academic discussions  
-
----
-
-## 📃 License
+icense
 
 This project is for academic and educational purposes. Attribution appreciated.
 
