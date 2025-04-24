@@ -1,4 +1,4 @@
-# 🎓 Student Engagement Analytics using SPSS Modeler
+0# 🎓 Student Engagement Analytics using SPSS Modeler
 
 This project analyzes and predicts student engagement levels in an e-learning environment using IBM SPSS Modeler. It uses behavioral metrics such as logins, forum posts, quiz reviews, and assignment submission times to train predictive models and identify key patterns in learning behaviors.
 
@@ -43,7 +43,47 @@ The dataset includes 7 features:
 
 ---
 
-## 📷 Visual Flow in SPSS Modeler
 
-The SPSS stream consists of:
+Each model uses the partitioned dataset and includes performance evaluations.
+
+---
+
+## 💡 Key Learnings
+
+- Structured flow-based modeling using SPSS  
+- Multi-model predictive analysis with nominal and continuous targets  
+- Visual data storytelling using EDA graphs  
+- Application of real-world educational data for insights  
+
+---
+
+## 🧾 Requirements
+
+- IBM SPSS Modeler (v18 or later)  
+- Dataset in `.csv` format  
+
+---
+
+## 📌 How to Run
+
+1. Open SPSS Modeler  
+2. Import the `.csv` file via the **Var. File** or **CSV Source Node**  
+3. Follow the node pipeline as described  
+4. Run the stream and visualize output metrics  
+5. Analyze charts and model performance  
+
+---
+
+## 📬 Contact
+
+👤 Author: *Kitten*  
+📧 Reach out for collaboration, feedback, or academic discussions  
+
+---
+
+## 📃 License
+
+This project is for academic and educational purposes. Attribution appreciated.
+
+
 
