@@ -86,11 +86,14 @@ This project is for academic and educational purposes. Attribution appreciated.
 
 Output
 
-![SPSS Modeler Stream](./images/C5,0.png)
+![Engagement Prediction Tree](./C5.0.png)
 
-![SPSS Modeler Stream](./images/Random Trees.png)
+![Assignment Submission Prediction](./RandomTrees.png)
 
-![SPSS Modeler Stream](./images/Neural Net.png)
+![Quiz Review Neural Net](./NeuralNet.png)
+
+
+
 
 
 
